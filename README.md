@@ -1,5 +1,3 @@
-# LoveListMovie_App
-
 # IDENTITAS:
 Nama: Ainnaya Nur Akasah
 
