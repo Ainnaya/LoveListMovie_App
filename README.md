@@ -39,16 +39,9 @@ Aplikasi LoveList Movie ini bisa menampilkan data tanpa harus terkoneksi interne
 dan juga memiliki tampilan yang simpel sangat mudah digunakan dan tidak membingungkan user.
 
 ### CONTOH GAMBAR:
------------- | -------------
 <img src="https://github.com/Ainnaya/LoveListMovie_App/blob/2973edb8ceecdacd85a0f9f36daa866828cead46/0.%20Navigasi.jpg" width="300" height="500"/>|<img src="https://github.com/Ainnaya/LoveListMovie_App/blob/2973edb8ceecdacd85a0f9f36daa866828cead46/1%20PlayingNow.jpg" width="300" height="500"/>
-
------------- | -------------
 <img src="https://github.com/Ainnaya/LoveListMovie_App/blob/2973edb8ceecdacd85a0f9f36daa866828cead46/2%20PlayingNow.jpg" width="300" height="500"/>|<img src="https://github.com/Ainnaya/LoveListMovie_App/blob/2973edb8ceecdacd85a0f9f36daa866828cead46/3.%20PlayingNow.jpg" width="300" height="500"/>
-
------------- | -------------
 <img src="https://github.com/Ainnaya/LoveListMovie_App/blob/2973edb8ceecdacd85a0f9f36daa866828cead46/4.%20Populer.jpg" width="300" height="500"/>|<img src="https://github.com/Ainnaya/LoveListMovie_App/blob/2973edb8ceecdacd85a0f9f36daa866828cead46/5.%20Populer.jpg" width="300" height="500"/>
-
------------- | -------------
 <img src="https://github.com/Ainnaya/LoveListMovie_App/blob/2973edb8ceecdacd85a0f9f36daa866828cead46/6.%20Aboutme.jpg" width="300" height="500"/>|<img src="" width="300" height="500"/>
 
 
