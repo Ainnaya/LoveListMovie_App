@@ -14,10 +14,10 @@ LoveList Movie
 
 # LINK FILE APK:
 Anda bisa mendapatkan aplikasi ini dengan dengan cara Klik tulisan di samping -->
-[LoveListMovieApp] (https://docs.google.com/uc?export=download&id=0BxRyC99DsxNVLXR4NkZxR1dMa0U)
+[LoveListMovieApp](https://docs.google.com/uc?export=download&id=0BxRyC99DsxNVLXR4NkZxR1dMa0U)
 
 # ALAMAT API:
-[The Movie Database (TMDb) API] (https://www.themoviedb.org/documentation/api)
+[The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api)
 
 # JENIS NAVIGASI:
 Navigation Drawer
